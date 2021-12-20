@@ -1,6 +1,5 @@
-# reference-quarkus-mvn-cloud-resources (Jenkins) (Workflow: Everything)
-The cloud resources for the [reference-quarkus-mvn](https://github.com/ploigos-reference-apps/reference-quarkus-mvn)
-application when using Jenkins and the Everything workflow.
+# reference-cloud-resources
+The cloud resources for the [reference apps](https://github.com/ploigos-reference-apps/), deployed using the operator.
 
 ## Install
 
